@@ -5,3 +5,5 @@ Change: new login feature
 Change: new logout feature
 
 Change: to fix bug1
+
+Change: bug2 fixed
