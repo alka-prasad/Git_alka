@@ -1,3 +1,4 @@
-code to implement CR1
-change to local master to test push
-change by team mate on remote repositoty
+1.code to implement CR1
+2.change to local master to test push
+3.change by team mate on remote repository
+4.change to test rebase by team mate on remote repository
