@@ -1,12 +1,13 @@
 Hello World !!!
 
-Change: new login feature
+1. Change: new login feature
 
-Change: new logout feature
+2. Change: new logout feature
 
-Change: change by team mate for some feature
+3. Change: change by team mate for some feature
 
-Change: to fix bug1
+4. to fix bug1
 
-Change: bug2 fixed
+5. Change: bug2 fixed
 
+6. Change: to check rebase hence this chjange is added by team mate
