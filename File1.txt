@@ -4,4 +4,6 @@ Change: new login feature
 
 Change: new logout feature
 
-Change: to fix bug1
+Change: To fix bug1
+
+Change: change by team mate for some feature
